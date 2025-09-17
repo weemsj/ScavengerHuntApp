@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Scavenger Hunt App</string>
+    <string name="name_1">The Global</string>
+    <string name="name_2">Scavenger Hunt</string>
+    <string name="name_3">Game</string>
+    <string name="rules_intro">Scavenger Hunt Rules</string>
+    <string name="rule_1">1. Click the \"Start Button\" to begin a new game.</string>
+    <string name="rule_2">2. You will then be navigated to a \"Clue\" page, that gives a clue to a specific location.</string>
+    <string name="rule_3">3. You will need to use the clue to find the location. Don\'t worry, if you get stumped feel free to use the \"Hint\" button for help.</string>
+    <string name="rule_4">4. Once you think you have arrived at the correct location, click \"Found It\" to check whether you are in the correct location.\n\t- If you are in the correct location, and it is not the final clue, the game will navigate you to a page with more information about the location. Once you are ready for the next clue click "Continue".\n\t- If you are in the wrong location the game will prompt you to keep trying.</string>
+    <string name="rule_5">5. Repeat steps 2 – 4 until you solve the final clue which will be indicated when you are prompted with a congratulatory message.</string>
+    <string name="note">"This is a timed game, the timer will automatically pause while your reading information on a location and resume when you receive your next clue. "</string>
+    <string name="start">START</string>
+    <string name="clue_1">I was once the tallest tower in the world, I have four legs and I twinkle in the night.</string>
+    <string name="clue_2">Grab some popcorn and get ready for a Gladiatorial show at the world\'s largest amphitheater. </string>
+    <string name="hint_1">You can find me in the French capital city</string>
+    <string name="hint_2">I was built over 1900 years ago by Roman engineers.</string>
+    <string name="answer_1">Eiffel Tower</string>
+    <string name="answer_2">Roman Colosseum</string>
+    <string name="next_clue">Continue</string>
+    <string name="found_it">Found It</string>
+    <string name="colosseum_1">The Colosseum was built between 72 A.D and 80 A.D.</string>
+    <string name="colosseum_2">It was built with stone and concrete by tens of thousands of slaves.</string>
+    <string name="colosseum_3">It once had 80 entrances and seat around 50,000 viewers.</string>
+    <string name="colosseum_4">Events and games included, gladiatorial combats, wild animal huts and ship navel battles.</string>
+    <string name="eiffel_1">The Eiffel Tower was designed by Gustave Eiffel</string>
+    <string name="eiffel_2">It took 22 Months to complete.</string>
+    <string name="eiffel_3">The Tower is repainted every 7 years.</string>
+    <string name="eiffel_4">It weighs an estimated 10,100 tons</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="congrats_details">You won the Scavenger Hunt</string>
+    <string name="leave">Quit Game</string>
+    <string name="incorrect">Oops! Not quite the location I was thinking, try again. Stumped?! Try clicking the "hint" button.</string>
+    <string name="close">Main Menu</string>
+    <string name="clue">Clue</string>
+    <string name="view_rules">View Rules</string>
+    <string name="hint">Hint</string>
+    <string name="game_time">Elapsed Time</string>
+    <string name="wrong_location">Wrong Location</string>
+    <string name="dismiss">Dismiss</string>
+
+</resources>
