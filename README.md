@@ -88,7 +88,7 @@ asynchronous programming, and Jetpack Compose UI patterns.
 
 -   **Video Walkthrough:** Demonstrates app running on Android Emulator
 -   **Clue Progression:** Start → Clue → Found → Completion flow
--   **Repository:** \[GitHub Link\]
+-   **Repository:** [[GitHub Link](https://github.com/weemsj/ScavengerHuntApp)]
 
 ------------------------------------------------------------------------
 
