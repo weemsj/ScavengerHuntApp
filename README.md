@@ -14,7 +14,7 @@ This project demonstrates my ability to design and develop
 **location-aware mobile applications**, integrating maps, permissions,
 asynchronous programming, and Jetpack Compose UI patterns.
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ## 🔑 Key Features
 
@@ -40,7 +40,7 @@ asynchronous programming, and Jetpack Compose UI patterns.
     -   Modular UI with Jetpack Compose components
     -   Organized by packages: `ui`, `data`, `model`
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ## 🛠️ Technology Stack
 
@@ -50,7 +50,7 @@ asynchronous programming, and Jetpack Compose UI patterns.
 -   **Location:** Android Location Services + Haversine formula
 -   **Tools:** Android Studio, Emulator (mock GPS), Gradle
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -71,7 +71,7 @@ asynchronous programming, and Jetpack Compose UI patterns.
     ├── model                    # Data models for Clues, Game state
     └── data                     # Resource-backed clue data
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ## 🎓 What I Learned
 
@@ -82,7 +82,7 @@ asynchronous programming, and Jetpack Compose UI patterns.
 -   Designing responsive UIs with **Jetpack Compose**
 -   Testing and debugging with **Android Emulator mock locations**
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 ## 📸 Demo
 
@@ -90,7 +90,24 @@ asynchronous programming, and Jetpack Compose UI patterns.
 -   **Clue Progression:** Start → Clue → Found → Completion flow
 -   **Repository:** [GitHub Link](https://github.com/weemsj/ScavengerHuntApp)
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+## 📱 Mobile Treasure Hunt (Android App)
+
+This one is much more visual — highlight the flow of the game:
+1.	Start Screen
+    * App title, rules, and Start button.
+2.	Clue Screen
+	*	A clue displayed with timer running and Found It! button visible.
+	*	Optional: Tap the Hint button to show it in action.
+3.	Found Screen
+	*	After solving a clue, paused timer + info about the location.
+4.	Treasure Hunt Completed Screen
+	*	Final congratulatory message with total elapsed time.
+
+_(Optional fifth)_ Emulator map view with mocked GPS point set in Android Studio Extended Controls.
+
+--------------------------------------------------------------------------
 
 👉 This project was designed as a **portfolio assignment** to showcase
 mobile development proficiency, with emphasis on GPS services, Compose
